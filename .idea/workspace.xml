@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a74c85bd-d896-4e6a-9fec-ca17937c44b9" name="Default Changelist" comment="" />
+    <list default="true" id="a74c85bd-d896-4e6a-9fec-ca17937c44b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,10 +26,14 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1Wy5CTqPc1FNZMUQl5C86fYl01e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -52,6 +62,8 @@
       <workItem from="1580108869034" duration="6455000" />
       <workItem from="1580193037540" duration="4668000" />
       <workItem from="1580210282050" duration="617000" />
+      <workItem from="1580454733778" duration="1087000" />
+      <workItem from="1580458991391" duration="1561000" />
     </task>
     <servers />
   </component>
@@ -63,6 +75,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2560" y="344" width="630" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580111776513" />
+    <state x="704" y="1376" width="501" height="513" key="FileChooserDialogImpl" timestamp="1580459012296">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="704" y="1376" width="501" height="513" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1580459012296" />
     <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1580198858375">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -79,9 +95,11 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="287" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580198858375" />
-    <state x="2369" y="174" key="SettingsEditor" timestamp="1580111851003">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="449" y="1254" key="SettingsEditor" timestamp="1580459066609">
+      <screen x="0" y="1080" width="1920" height="1080" />
     </state>
+    <state x="449" y="174" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1580458970795" />
+    <state x="449" y="1254" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1580459066609" />
     <state x="2369" y="174" key="SettingsEditor/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580111851003" />
     <state x="2543" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1580113482980">
       <screen x="1920" y="0" width="1920" height="1080" />
